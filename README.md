@@ -3,7 +3,7 @@ LCD Screen Test
 
 Function:               Basic functionality test of the Nokia N5110 LCD display and N5110.h
 Circuit Schematic No.:  9
-Required Libraries:     N5110
+Required Libraries:     N5110 : https://github.com/ELECXJEL2645/N5110
 
 Authored by:            Andrew Knowles
 Date:                   2021
