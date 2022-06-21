@@ -1,5 +1,4 @@
-
- N5110 LCD Library
+N5110 LCD Library
 =================
 
 Function:              Library for interfacing with Nokia 5110 LCD display (https://www.sparkfun.com/products/10168) using 
