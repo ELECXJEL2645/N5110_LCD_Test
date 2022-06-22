@@ -1,4 +1,4 @@
-LCD Screen Test
+N5110_LCD_Test
 ===============
 
 Function:               Basic functionality test of the Nokia N5110 LCD display and N5110.h
