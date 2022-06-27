@@ -10,8 +10,8 @@ Date:                   2021
 Collaberators:          Dr Craig Evans
                         Dr Alexander Valavanis
                         Dr Tim Amsdon
-Version:                1.0
+Version:                2.0
 Revision Date:          06/2022 
 MBED Studio Version:    1.4.1
-MBED OS Version:        6.12.0
+MBED OS Version:        6.14.0
 Board:	                NUCLEO L476RG
