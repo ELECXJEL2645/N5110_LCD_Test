@@ -17,7 +17,6 @@ printTest()       : Tests the following functions by printing to the LCD screen:
                      - N5110::drawSprite(int x0, int y0, int nrows, int ncols, int *sprite)
                      - N5110::setPixel(unsigned int const x, unsigned int const y, bool const state = true)
                      - N5110::printChar(char const c, unsigned int const x, unsigned int const y)
-                   
                    Note: Where 'FillType const fill' is requested, both fill types ('FILL_BLACK' and 'FILL_TRANSPARENT') have been used. Additionally, where 
                          'unsigned int const type' has been requested, types '1' and '2' (black and dotted) have been used.
                           
